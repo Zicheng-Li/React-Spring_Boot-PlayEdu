@@ -91,7 +91,7 @@ PlayEdu is an educational platform designed for enterprises and schools to condu
         yarn dev
         ```
 
-    - Default account: admin@playedu.xyz, password: playedu
+    - Default account: `admin@playedu.xyz`, password: `playedu`
 
 7. Deploy the backend:
 
