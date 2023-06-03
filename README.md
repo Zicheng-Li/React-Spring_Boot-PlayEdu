@@ -14,10 +14,17 @@ PlayEdu is an educational platform designed for enterprises and schools to condu
 ## Project Demo
 
 ### Frontend Interface: 
-- User login page 
+- Student login page 
 ![Frontend Interface](1.png)
 
-Backend Interface: 
+- Student dashboard 
+![Frontend Interface](2.png)
+
+- Video page 
+![Frontend Interface](3.png)
+
+
+### Backend Interface: 
 ![Backend Interface](Put your image link here)
 
 
