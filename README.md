@@ -20,6 +20,9 @@ PlayEdu is an educational platform designed for enterprises and schools to condu
 - Student dashboard 
 ![Frontend Interface](2.png)
 
+- Student course page 
+![Frontend Interface](4.png)
+
 - Video page 
 ![Frontend Interface](3.png)
 
