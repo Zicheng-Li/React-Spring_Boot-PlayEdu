@@ -37,8 +37,10 @@ Backend Interface:
     minio/minio server --console-address ":50000" /data
     ```
 
-    After successful installation, you can access the MinIO management service at http://localhost/:50000. Username: username, password: password.
-    After logging in, select Buckets, click the Create Bucket button, and then change the Access policy to public. Finally, remember to modify the MinIO service configuration in `application.yml`.
+- After successful installation, you can access the MinIO management service at http://localhost/:50000. 
+- On the login page, the default account: Username: username, Password: password.
+- After logging in, select **Buckets**, click the **Create Bucket button**, and then change the Access policy to **public**. 
+- Finally, remember to modify the MinIO service configuration in `application.yml`.
 
 5. Install Redis (make sure Docker is installed):
 
