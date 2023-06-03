@@ -50,7 +50,7 @@ Backend Interface:
 
 6. Deploy the frontend:
 
-    - Download the source code from [here](https://github.com/Zicheng-Li/PlayEdu-frontend).
+    - Download the source code from [for frontend](https://github.com/Zicheng-Li/PlayEdu-frontend).
     - Make sure Node.js and yarn are installed locally.
     - Run the following commands:
 
@@ -65,7 +65,7 @@ Backend Interface:
 
 7. Deploy the backend:
 
-    - Download the source code from [here](https://github.com/Zicheng-Li/PlayEdu-backend.git).
+    - Download the source code [for backend](https://github.com/Zicheng-Li/PlayEdu-backend.git).
     - Make sure Node.js and yarn are installed locally.
     - Run the following commands:
 
