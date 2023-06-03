@@ -40,6 +40,13 @@ PlayEdu is an educational platform designed for enterprises and schools to condu
 - Upload video page  
 ![Backend Interface](6.png)
 
+- Video setting page
+- Video Watermark feature available   
+![Backend Interface](9.png)
+
+- MinIO setting page  
+![Backend Interface](10.png)
+
 
 ## Quick Local Deployment
 
